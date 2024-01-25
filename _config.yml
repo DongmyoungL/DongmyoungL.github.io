@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mr. Dongmyoung Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at Imperial College London, interested in Robotic Manipulation, End-effector design and control"
+  location         : "Imperial College London, United Kingdom"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nufM4CwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
