@@ -11,9 +11,9 @@ title                    : "Mr. Dongmyoung Lee"
 title_separator          : "-"
 name                     : &name "Mr. Dongmyoung Lee"
 description              : &description "PhD student at Imperial College London"
-url                      : https://dongmyoung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DongmyoungL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dongmyoung.github.io"
+repository               : "DongmyoungL.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
