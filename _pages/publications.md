@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2024
+[G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm](https://ieeexplore.ieee.org/document/10268091)
+<br>**Dongmyoung Lee**\*, Wei Chen\*, and Nicolas Rojas.<br>
+*IEEE Robotics and Automation Letters (RA-L), to be presented at IROS.* **2024**.<br>
+[Paper](https://arxiv.org/pdf/2401.10702.pdf) | [Video](https://www.youtube.com/watch?v=YOI2AswGpAU)
