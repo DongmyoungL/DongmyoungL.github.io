@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Dongmyoung Lee"
+title                    : "Dongmyoung Lee"
 title_separator          : "-"
-name                     : &name "Mr. Dongmyoung Lee"
+name                     : &name "Dongmyoung Lee"
 description              : &description "PhD student at Imperial College London"
 url                      : https://DongmyoungL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Dongmyoung Lee"
+  name             : "Dongmyoung Lee"
   avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "Imperial College London, UK"
