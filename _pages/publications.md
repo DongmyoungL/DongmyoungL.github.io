@@ -19,5 +19,5 @@ A Soft Continuum Robot With Self-Controllable Variable Curvature
 ### 2023
 Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks
 <br>Wei Chen, **Dongmyoung Lee**, Digby Chappell, and Nicolas Rojas.<br>
-*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.<br>
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),* 2023.<br>
 [Paper](https://arxiv.org/pdf/2306.14553.pdf) | [Video](https://www.youtube.com/watch?v=Ik8mNMNgOvY)
