@@ -15,3 +15,9 @@ A Soft Continuum Robot With Self-Controllable Variable Curvature
 <br>Xinran Wang, Qiujie Lu, **Dongmyoung Lee**, Zhongxue Gan, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), to be presented at RoboSoft,* 2024.<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387683) | [Video](https://www.youtube.com/watch?v=H6SCK0NjGpE)
+
+### 2023
+Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks
+<br>Wei Chen, **Dongmyoung Lee**, Digby Chappell, and Nicolas Rojas.<br>
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.<br>
+[Paper](https://arxiv.org/pdf/2306.14553.pdf) | [Video](https://www.youtube.com/watch?v=Ik8mNMNgOvY)
