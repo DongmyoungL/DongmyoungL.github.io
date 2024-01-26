@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* June 2016 ~ December 2017 : Junior Researcher
+* 2016 - 2017 : Junior Researcher
   * XAVIS, South Korea
   * Duties included: X-ray Inspection Device Design and Control
 
-* Jan 2018 ~ July 2019 : Junior Researcher
+* 2017 - 2019 : Junior Researcher
   * CHIC, KIST, South Korea
   * Duties included: Exoskeleton Hand Design and Control
   
