@@ -11,6 +11,11 @@ G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation wit
 *IEEE Robotics and Automation Letters (RA-L), to be presented at IROS,* 2024.<br>
 \*Equal contribution | [Paper](https://arxiv.org/pdf/2401.10702.pdf) | [Video](https://www.youtube.com/watch?v=YOI2AswGpAU)
 
+Synthetic data enables faster annotation and robust segmentation for multi-object grasping in clutter
+<br>**Dongmyoung Lee**, Wei Chen, and Nicolas Rojas.<br>
+*IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE),* 2024.<br>
+[Paper](https://arxiv.org/pdf/2401.13405.pdf) | [Video](https://www.youtube.com/watch?v=V3SSSPSo-HY)
+
 A Soft Continuum Robot With Self-Controllable Variable Curvature
 <br>Xinran Wang, Qiujie Lu, **Dongmyoung Lee**, Zhongxue Gan, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), to be presented at RoboSoft,* 2024.<br>
