@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, KAIST, 2014
+* M.S. in Mechanical Engineering, KAIST, 2016
+* Ph.D in Design Engineering, Imperial College London, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2016 ~ December 2017 : Junior Researcher
+  * XAVIS, South Korea
+  * Duties included: X-ray Inspection Device Design and Control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2018 ~ July 2019 : Junior Researcher
+  * CHIC, KIST, South Korea
+  * Duties included: Exoskeleton Hand Design and Control
   
 Skills
 ======
