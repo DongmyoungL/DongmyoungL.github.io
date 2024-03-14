@@ -34,4 +34,4 @@ Ph.D Life (2020 - 2025 (expected))
     * Conference: IEEE ICRA, IROS, ICMRE, and etc
     * Journal: IEEE RA-L
 * Award
-  * Creative Gripper Design Award - 7th Robotic Grasping and Manipulation Competition (ICRA 2023)
+  * Gripper Design Award - 7th Robotic Grasping and Manipulation Competition (ICRA 2023)
