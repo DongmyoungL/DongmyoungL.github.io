@@ -27,6 +27,8 @@ Past Work Experience
 
 Ph.D Life
 ======
+* Ph.D Research Topic
+  * Deformable object manipulation, including bimanual cloth, DLO, and organic object manipulations.
 * Peer Review
   * Review experience for conferences and journals
     * Conference: IEEE ICRA, IROS, ICMRE, and etc
