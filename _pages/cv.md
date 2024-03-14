@@ -21,11 +21,11 @@ Past Work Experience
   * XAVIS, South Korea
   * Duties included: X-ray Inspection Device Design and Control
 
-* 2017 - 2019 : Junior Researcher
+* 2017 - 2020 : Junior Researcher
   * CHIC, KIST, South Korea
   * Duties included: Exoskeleton Hand Design and Control
 
-Ph.D Life
+Ph.D Life (2020 - 2025 (expected))
 ======
 * Ph.D Research Topic
   * Deformable object manipulation, including bimanual cloth, DLO, and organic object manipulations.
