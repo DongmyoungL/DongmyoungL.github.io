@@ -16,6 +16,11 @@ Synthetic data enables faster annotation and robust segmentation for multi-objec
 *IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE),* 2024.<br>
 [Paper](https://arxiv.org/pdf/2401.13405.pdf) | [Video](https://www.youtube.com/watch?v=V3SSSPSo-HY)
 
+A Backbone for Long-Horizon Robot Task Understanding
+<br>Xiaoshuai Chen, Wei Chen, **Dongmyoung Lee**, Nicolas Rojas, and Petar Kormushev.<br>
+*Submitted - IEEE Robotics and Automation Letters (RA-L),* 2024.<br>
+[Paper](https://arxiv.org/pdf/2408.01334)
+
 A Soft Continuum Robot With Self-Controllable Variable Curvature
 <br>Xinran Wang, Qiujie Lu, **Dongmyoung Lee**, Zhongxue Gan, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), to be presented at RoboSoft,* 2024.<br>
