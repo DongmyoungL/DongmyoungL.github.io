@@ -28,7 +28,7 @@ Past Work Experience
 Ph.D Life (2020 - 2025 (expected))
 ======
 * Ph.D Research Topic
-  * Deformable object manipulation, including bimanual cloth, DLO, and organic object manipulations.
+  * Gripper Design and Control for Deformable Object Manipulation.
 * Peer Review
   * Review experience for conferences and journals
     * Conference: IEEE ICRA, IROS, ICMRE, and etc
