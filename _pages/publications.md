@@ -18,7 +18,7 @@ Synthetic data enables faster annotation and robust segmentation for multi-objec
 
 A Backbone for Long-Horizon Robot Task Understanding
 <br>Xiaoshuai Chen, Wei Chen, **Dongmyoung Lee**, Nicolas Rojas, and Petar Kormushev.<br>
-*IEEE Robotics and Automation Letters (RA-L, submitted),* 2024.<br>
+*IEEE Robotics and Automation Letters (RA-L), sumbitted, * 2024.<br>
 [Paper](https://arxiv.org/pdf/2408.01334) | [Project](https://sites.google.com/view/therbligsbasedbackbone/)
 
 A Soft Continuum Robot With Self-Controllable Variable Curvature
