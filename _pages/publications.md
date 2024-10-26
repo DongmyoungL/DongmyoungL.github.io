@@ -9,12 +9,12 @@ author_profile: true
 G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm
 <br>**Dongmyoung Lee**\*, Wei Chen\*, Xiaoshuai Chen, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), presented at IROS,* 2024.<br>
-\*Equal contribution | [Paper](https://arxiv.org/pdf/2401.10702.pdf) | [Video](https://www.youtube.com/watch?v=YOI2AswGpAU)
+\*Equal contribution | [Paper](https://arxiv.org/pdf/2401.10702.pdf) | [Video](https://www.youtube.com/watch?v=YOI2AswGpAU) | [Project](https://sites.google.com/view/gripperongripper)
 
 Synthetic data enables faster annotation and robust segmentation for multi-object grasping in clutter
 <br>**Dongmyoung Lee**, Wei Chen, and Nicolas Rojas.<br>
 *IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE),* 2024.<br>
-[Paper](https://arxiv.org/pdf/2401.13405.pdf) | [Video](https://www.youtube.com/watch?v=V3SSSPSo-HY)
+[Paper](https://arxiv.org/pdf/2401.13405.pdf) | [Video](https://www.youtube.com/watch?v=V3SSSPSo-HY) | [Project](https://sites.google.com/view/synthetic-dataset-generation)
 
 A Backbone for Long-Horizon Robot Task Understanding
 <br>Xiaoshuai Chen, Wei Chen, **Dongmyoung Lee**, Nicolas Rojas, and Petar Kormushev.<br>
