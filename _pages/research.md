@@ -10,6 +10,10 @@ My research interest is fundamentally based on gripper design and control for de
 ### Specific Interest
 ======
 * Dexterous Griper Design and Robot Manipulation
+  * Design and control of versatile robotic grippers for complex tasks such as deformable object manipulation.
 * Multi-modal Perception and Control
+  * Integration of vision and tactile data for robust perception and feedback for precise manipulation tasks.
 * AI-Driven Robotic Systems
+  * Application of AI techniques, including generative models and foundation models for robust control in cluttered environment.
 * Human-Robot Interaction (HRI)
+  * Research on haptic interfaces, motion capture, and control algorithms for intuitive human-robot collaboration in domestic and industrial applications.
