@@ -10,13 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-======
 * B.Sc Mechanical Engineering, KAIST, 2014
 * M.Sc Mechanical Engineering, KAIST, 2016
 * Ph.D Design Engineering, Imperial College London, 2025 (expected)
 
 ### Work Experience
-======
 * 2016 - 2017: Researcher
   * XAVIS, South Korea
   * Duties included: X-ray Inspection Device Design and Control
@@ -26,7 +24,6 @@ redirect_from:
   * Duties included: Exoskeleton Hand Design and Control
 
 ### Ph.D Degree (2020 - 2025 (expected))
-======
 * Ph.D Research Topic
   * Gripper Design and Control for Deformable Object Manipulation.
 * Peer Review
