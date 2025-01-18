@@ -8,7 +8,6 @@ author_profile: true
 My research interest is fundamentally based on gripper design and control for deformable object manipulation using a single robot arm, which includes bimanual cloth manipulation and organic object manipulation.
 
 ### Research Interest
-======
 * Dexterous Griper Design and Robot Manipulation
   * Design and control of versatile robotic grippers for complex tasks such as deformable object manipulation.
 * Multi-modal Perception and Control
