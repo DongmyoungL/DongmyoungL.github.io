@@ -17,7 +17,7 @@ author_profile: true
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),* 2025.<br>
 [Paper](https://arxiv.org/pdf/2503.05817) | [Project](https://sites.google.com/view/graphgarment)
 
-- **A Backbone for Long-Horizon Robot Task Understanding**  
+- **A Backbone for Long-Horizon Robot Task Understanding**
 <br>Xiaoshuai Chen, Wei Chen, **Dongmyoung Lee**, Nicolas Rojas, and Petar Kormushev.<br>
 *IEEE Robotics and Automation Letters (RA-L),* 2025.<br>
 [Paper](https://arxiv.org/pdf/2408.01334) | [Project](https://sites.google.com/view/therbligsbasedbackbone/)
