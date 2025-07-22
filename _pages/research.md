@@ -5,14 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interest is fundamentally based on gripper design and control for deformable object manipulation using a single robot arm, which includes bimanual cloth manipulation and organic object manipulation.
+### 🔍 Research Interests
 
-### Research Interest
-* Dexterous Griper Design and Robot Manipulation
-  * Design and control of versatile robotic grippers for complex tasks such as deformable object manipulation.
-* Multi-modal Perception and Control
-  * Integration of vision and tactile data for robust perception and feedback for precise manipulation tasks.
-* AI-Driven Robotic Systems
-  * Application of AI techniques, including generative models and foundation models for robust control in cluttered environment.
-* Human-Robot Interaction (HRI)
-  * Research on haptic interfaces, motion capture, and control algorithms for intuitive human-robot collaboration in domestic and industrial applications.
+My research is fundamentally centered on **gripper design and control for deformable object manipulation using a single robotic arm**, encompassing applications such as **bimanual cloth manipulation** and **organic object handling**. I pursue robust, generalizable robotic solutions through interdisciplinary approaches across design, control, perception, and AI.
+
+- **Dexterous Gripper Design and Robotic Manipulation**  
+  Design and control of versatile robotic grippers capable of complex tasks, including deformable object manipulation with a single arm.
+
+- **Multi-Modal Perception and Control**  
+  Integration of vision and tactile sensing for robust perception and closed-loop feedback control in precise manipulation tasks.
+
+- **AI-Driven Robotic Systems**  
+  Leveraging AI techniques—including generative models and foundation models—to enhance manipulation performance in unstructured and cluttered environments.
+
+- **Human-Robot Interaction (HRI)**  
+  Development of intuitive human-robot collaboration frameworks through haptic interfaces, motion capture, and shared autonomy for both domestic and industrial applications.
+
