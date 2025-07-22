@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dongmyoung Lee"
 title_separator          : "-"
-name                     : &name "Dongmyoung Lee"
+name                     : &name "Mr. Dongmyoung Lee"
 description              : &description "PostDoc at TU Wien"
 url                      : https://DongmyoungL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
