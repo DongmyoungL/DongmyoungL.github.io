@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -83,12 +83,12 @@ author:
   name             : "Dongmyoung Lee"
   avatar           : "Profile_Dongmyoung.jpg"
   bio              : "PostDoc Researcher"
-  location         : "TU Wien, Austria"
+  location         : "Vienna, Austria"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nufM4CwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dongmyoung-Lee-4?ev=hdr_xprf" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
