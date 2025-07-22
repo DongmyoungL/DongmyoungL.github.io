@@ -23,4 +23,4 @@ I am a Postdoctoral Researcher at the [Autonomous System Lab](https://www.tuwien
 ---
 
 ### 📫 **Contact** 
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/dongmyoung-lee).
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/dongmyoung-lee)
