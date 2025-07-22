@@ -27,6 +27,7 @@ redirect_from:
 
 ### 🥼 Ph.D. (2020 - 2025)
 **Research Topic** *Gripper Design and Control for Deformable Object Manipulation*
+
 **Peer Review Experience:**
 - **Conferences:** IEEE ICRA, IROS, ICMRE, etc.  
 - **Journals:** IEEE Robotics and Automation Letters (RA-L)
