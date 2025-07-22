@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Welcome to Dongmyoung's Webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
