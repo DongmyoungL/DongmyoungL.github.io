@@ -23,17 +23,17 @@ author_profile: true
 [Paper](https://arxiv.org/pdf/2408.01334) | [Project](https://sites.google.com/view/therbligsbasedbackbone/)
 
 #### 2024
-- **G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm**  
+- **G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm**
 <br>**Dongmyoung Lee**\*, Wei Chen\*, Xiaoshuai Chen, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), presented at IROS,* 2024.<br>
 \*Equal contribution | [Paper](https://arxiv.org/pdf/2401.10702.pdf) | [Video](https://www.youtube.com/watch?v=YOI2AswGpAU) | [Project](https://sites.google.com/view/gripperongripper)
 
-- **Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping in Clutter**  
+- **Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping in Clutter**
 <br>**Dongmyoung Lee**, Wei Chen, and Nicolas Rojas.<br>
 *IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE),* 2024.<br>
 [Paper](https://arxiv.org/pdf/2401.13405.pdf) | [Video](https://www.youtube.com/watch?v=V3SSSPSo-HY) | [Project](https://sites.google.com/view/synthetic-dataset-generation)
 
-- **A Soft Continuum Robot With Self-Controllable Variable Curvature**  
+- **A Soft Continuum Robot With Self-Controllable Variable Curvature**
 <br>Xinran Wang, Qiujie Lu, **Dongmyoung Lee**, Zhongxue Gan, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), presented at RoboSoft,* 2024.<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387683) | [Video](https://www.youtube.com/watch?v=H6SCK0NjGpE)
