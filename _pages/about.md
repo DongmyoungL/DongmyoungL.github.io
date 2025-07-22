@@ -10,7 +10,7 @@ redirect_from:
 
 ### 👋 Hi, I'm Dongmyoung Lee
 
-I am a Postdoctoral Researcher at the [Autonomous System Lab](https://www.tuwien.at/en/etit/ict/asl), [TU Wien](https://www.tuwien.at/). I completed my PhD at the [Robot Intelligence Lab](https://www.imperial.ac.uk/robot-intelligence/), [Imperial College London](https://www.imperial.ac.uk/), under the supervision of [Dr. Petar Kormushev](https://profiles.imperial.ac.uk/p.kormushev) and [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas).
+I am a Postdoctoral Researcher at the [Autonomous System Lab](https://www.tuwien.at/en/etit/ict/asl), [TU Wien](https://www.tuwien.at/). I completed my PhD at the [Robot Intelligence Lab](https://www.imperial.ac.uk/robot-intelligence/), [Imperial College London](https://www.imperial.ac.uk/), under the supervision of Dr. Petar Kormushev and Dr. Nicolas Rojas.
 
 ---
 
