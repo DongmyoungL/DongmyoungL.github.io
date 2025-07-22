@@ -12,7 +12,7 @@ My research is fundamentally centered on **gripper design and control for deform
 - **Dexterous Gripper Design and Robotic Manipulation**  
   Design and control of versatile robotic grippers capable of complex tasks, including deformable object manipulation with a single arm.
 
-- **Multi-Modal Perception and Control**  
+- **Multimodal Perception and Control**  
   Integration of vision and tactile sensing for robust perception and closed-loop feedback control in precise manipulation tasks.
 
 - **AI-Driven Robotic Systems**  
