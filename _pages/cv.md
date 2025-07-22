@@ -14,12 +14,16 @@ redirect_from:
 - **M.Sc.** in Mechanical Engineering, *KAIST*, 2016  
 - **B.Sc.** in Mechanical Engineering, *KAIST*, 2014
 
-### Work Experience
+---
+
+### 💼 Work Experience
 - **Postdoctoral Researcher**, Institute of Computer Technology, TU Wien (2025.06 ~)  
 - **Researcher**, CHIC, KIST, South Korea (2017 - 2019)  
   - Exoskeleton Hand Design and Control  
 - **Researcher**, XAVIS, South Korea (2016 - 2017)  
   - X-ray Inspection Device Design and Control
+
+---
 
 ### 🥼 Ph.D. (2020 - 2025)
 **Research Topic** *Gripper Design and Control for Deformable Object Manipulation*
