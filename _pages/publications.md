@@ -12,6 +12,11 @@ author_profile: true
 <br>**Dongmyoung Lee**, Wei Chen, Nicolas Rojas, and Petar Kormushev.<br>
 *IEEE Transactions on Automation Science and Engineering (T-ASE, In Preparation),* 2025.<br>
 
+- **GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks**
+<br>Wei Chen, Kelin Li, **Dongmyoung Lee**, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),* 2025.<br>
+[Paper](https://arxiv.org/pdf/2503.05817) | [Project](https://sites.google.com/view/graphgarment)
+
 - **A Backbone for Long-Horizon Robot Task Understanding**  
 <br>Xiaoshuai Chen, Wei Chen, **Dongmyoung Lee**, Nicolas Rojas, and Petar Kormushev.<br>
 *IEEE Robotics and Automation Letters (RA-L),* 2025.<br>
