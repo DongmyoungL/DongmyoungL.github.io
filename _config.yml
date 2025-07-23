@@ -313,7 +313,7 @@ compress_html:
 # Footer Links
 footer_links:
   - title: "CV"
-    url: /assets/CV_DongmyoungLee.pdf
+    url: /files/CV_DongmyoungLee.pdf
   - title: "GitHub"
     url: https://github.com/DongmyoungL
   # - title: "Feed"
