@@ -309,3 +309,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Footer Links
+footer_links:
+  - title: "CV"
+    url: /assets/CV_DongmyoungLee.pdf
+  - title: "GitHub"
+    url: https://github.com/DongmyoungL
+  # - title: "Feed"
+  #   url: /feed.xml
