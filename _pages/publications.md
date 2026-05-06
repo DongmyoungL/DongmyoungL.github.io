@@ -7,11 +7,16 @@ author_profile: true
 
 ### 📄 Selected Publications
 
-#### 2025
-- **Integrating Foundation Model and Data Augmentation for Cloth Pose Estimation of Tactile Perception**
-<br>**Dongmyoung Lee**, Wei Chen, Nicolas Rojas, and Petar Kormushev.<br>
-*IEEE Transactions on Automation Science and Engineering (T-ASE, In Preparation),* 2025.<br>
+#### 2026
+- **Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**
+<br>**Dongmyoung Lee**, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
+*IEEE Transactions on Mechatronics (T-Mech, Submitted),* 2026.<br>
 
+- **DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation**
+<br>**Dongmyoung Lee**\*, Chengxi Li\*, and Dongheui Lee.<br>
+*IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO),* 2026.<br>
+
+#### 2025
 - **GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks**
 <br>Wei Chen, Kelin Li, **Dongmyoung Lee**, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),* 2025.<br>
