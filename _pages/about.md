@@ -201,7 +201,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <img src="/images/gog.jpg" alt="G.O.G.">
+  <img src="/images/softrobot.png" alt="G.O.G.">
   <div>
     <h3>A Soft Continuum Robot With Self-Controllable Variable Curvature</h3>
     <p>Xinran Wang, Qiujie Lu, <strong>Dongmyoung Lee</strong>, Zhongxue Gan, and Nicolas Rojas</p>
