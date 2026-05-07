@@ -166,7 +166,7 @@ redirect_from:
 ## Publications
 
 <div class="pub-card">
-  <img src="/images/500x300.png" alt="Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm">
+  <img src="/images/touchgog.jpg" alt="Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm">
   <div>
     <h3>Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm</h3>
     <p><strong>Dongmyoung Lee</strong>, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev</p>
@@ -186,7 +186,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <img src="/images/500x300.png" alt="G.O.G.">
+  <img src="/images/gog.jpg" alt="G.O.G.">
   <div>
     <h3>G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm</h3>
     <p><strong>Dongmyoung Lee</strong>*, Wei Chen*, Xiaoshuai Chen, and Nicolas Rojas</p>
@@ -201,7 +201,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <img src="/images/500x300.png" alt="Synthetic Data Enables Faster Annotation and Robust Segmentation">
+  <img src="/images/fruitgrasp.jpg" alt="Synthetic Data Enables Faster Annotation and Robust Segmentation">
   <div>
     <h3>Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping in Clutter</h3>
     <p><strong>Dongmyoung Lee</strong>, Wei Chen, and Nicolas Rojas</p>
