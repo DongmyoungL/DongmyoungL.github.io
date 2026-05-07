@@ -201,6 +201,20 @@ redirect_from:
 </div>
 
 <div class="pub-card">
+  <img src="/images/gog.jpg" alt="G.O.G.">
+  <div>
+    <h3>A Soft Continuum Robot With Self-Controllable Variable Curvature</h3>
+    <p>Xinran Wang, Qiujie Lu, <strong>Dongmyoung Lee</strong>, Zhongxue Gan, and Nicolas Rojas</p>
+    <p><em>IEEE Robotics and Automation Letters, presented at RoboSoft 2024</em></p>
+    <p>A soft continuum robot which is capable of self-controlling continuously its curvature at the segment level.</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2401.01739">Paper</a>
+      <a href="https://www.youtube.com/watch?v=H6SCK0NjGpE">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
   <img src="/images/fruitgrasp.jpg" alt="Synthetic Data Enables Faster Annotation and Robust Segmentation">
   <div>
     <h3>Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping in Clutter</h3>
@@ -216,7 +230,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <img src="/images/500x300.png" alt="Learning to Grasp Clothing Structural Regions">
+  <img src="/images/iros2023.png" alt="Learning to Grasp Clothing Structural Regions">
   <div>
     <h3>Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks</h3>
     <p>Wei Chen, <strong>Dongmyoung Lee</strong>, Digby Chappell, and Nicolas Rojas</p>
