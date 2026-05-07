@@ -176,7 +176,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <img src="/images/500x300.png" alt="DexTwist">
+  <img src="/images/dextwist.png" alt="DexTwist">
   <div>
     <h3>DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation</h3>
     <p><strong>Dongmyoung Lee</strong>*, Chengxi Li*, and Dongheui Lee</p>
