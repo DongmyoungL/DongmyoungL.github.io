@@ -151,7 +151,7 @@ redirect_from:
 
 <ul class="news-list">
   <li><strong>2026:</strong> DexTwist was accepted to IEEE ARSO 2026.</li>
-  <li><strong>2026:</strong> Our work on bimanual cloth manipulation with vision-based tactile sensing was submitted to IEEE Transactions on Mechatronics.</li>
+  <li><strong>2026:</strong> Our work on bimanual cloth manipulation with vision-based tactile sensing was submitted to IEEE Transactions on Mechatronics (T-Mech) </li>
   <li><strong>2025:</strong> GraphGarment was accepted to IEEE/RSJ IROS 2025.</li>
   <li><strong>2025:</strong> A Backbone for Long-Horizon Robot Task Understanding was published in IEEE Robotics and Automation Letters.</li>
   <li><strong>2024:</strong> G.O.G. was published in IEEE Robotics and Automation Letters and presented at IEEE/RSJ IROS 2024.</li>
