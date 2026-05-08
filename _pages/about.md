@@ -138,8 +138,6 @@ redirect_from:
     <div class="home-links">
       <a class="home-btn" href="/files/CV_DongmyoungLee.pdf">CV</a>
       <a class="home-btn" href="https://scholar.google.com/citations?user=nufM4CwAAAAJ&hl=en">Scholar</a>
-      <a class="home-btn" href="https://github.com/DongmyoungL">GitHub</a>
-      <a class="home-btn" href="https://www.researchgate.net/profile/Dongmyoung-Lee-4">ResearchGate</a>
       <a class="home-btn" href="https://www.linkedin.com/in/dongmyoung-lee">LinkedIn</a>
     </div>
   </div>
