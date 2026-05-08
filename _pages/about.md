@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: ""
-excerpt: "Dongmyoung Lee"
+title: "Dongmyoung Lee"
+excerpt: "Dongmyoung Lee — Postdoctoral Researcher at TU Wien working on dexterous robotic manipulation, deformable object manipulation, robot hand design, tactile sensing, and human-robot interaction."
 author_profile: false
 classes: wide
 redirect_from:
