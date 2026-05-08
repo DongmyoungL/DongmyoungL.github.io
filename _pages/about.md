@@ -74,7 +74,10 @@ redirect_from:
 .pub-card img {
   width: 185px;
   height: 115px;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
+  padding: 0.25rem;
   border-radius: 8px;
   border: 1px solid #eaecef;
 }
@@ -91,12 +94,26 @@ redirect_from:
 }
 
 .pub-links {
-  margin-top: 0.45rem;
+  margin-top: 0.55rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
 }
 
 .pub-links a {
-  margin-right: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
   font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-links i {
+  font-size: 0.95rem;
 }
 
 @media (max-width: 720px) {
@@ -108,8 +125,10 @@ redirect_from:
   .home-hero img,
   .pub-card img {
     width: 100%;
-    max-width: 220px;
+    max-width: 240px;
     height: auto;
+    max-height: 150px;
+    object-fit: contain;
   }
 }
 </style>
@@ -171,9 +190,15 @@ redirect_from:
     <p><em>IEEE Transactions on Mechatronics, submitted, 2026</em></p>
     <p>Vision-based tactile perception and control for bimanual cloth manipulation using a single robotic arm.</p>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2603.10609">Paper</a>
-      <a href="https://www.youtube.com/watch?v=Qom3WtHvSNI">Video</a>
-      <a href="https://sites.google.com/view/touchgog/home">Project Page</a>
+      <a href="https://arxiv.org/pdf/2603.10609" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=Qom3WtHvSNI" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
+      <a href="https://sites.google.com/view/touchgog/home" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
+      </a>
     </div>
   </div>
 </div>
@@ -196,23 +221,33 @@ redirect_from:
     <p><em>IEEE Robotics and Automation Letters, presented at IROS 2024</em></p>
     <p>A versatile gripper-on-gripper design enabling bimanual-style cloth manipulation with a single robot arm.</p>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2401.10702.pdf">Paper</a>
-      <a href="https://www.youtube.com/watch?v=YOI2AswGpAU">Video</a>
-      <a href="https://sites.google.com/view/gripperongripper">Project Page</a>
+      <a href="https://arxiv.org/pdf/2401.10702.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=YOI2AswGpAU" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
+      <a href="https://sites.google.com/view/gripperongripper" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
+      </a>
     </div>
   </div>
 </div>
 
 <div class="pub-card">
-  <img src="/images/softrobot.png" alt="G.O.G.">
+  <img src="/images/softrobot.png" alt="Soft Robotic Arm">
   <div>
     <h3>A Soft Continuum Robot With Self-Controllable Variable Curvature</h3>
     <p>Xinran Wang, Qiujie Lu, <strong>Dongmyoung Lee</strong>, Zhongxue Gan, and Nicolas Rojas</p>
     <p><em>IEEE Robotics and Automation Letters, presented at RoboSoft 2024</em></p>
     <p>A soft continuum robot which is capable of self-controlling continuously its curvature at the segment level.</p>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2401.01739">Paper</a>
-      <a href="https://www.youtube.com/watch?v=H6SCK0NjGpE">Video</a>
+      <a href="https://arxiv.org/pdf/2401.01739" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=H6SCK0NjGpE" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
     </div>
   </div>
 </div>
@@ -225,9 +260,15 @@ redirect_from:
     <p><em>IEEE International Conference on Mechatronics and Robotics Engineering, ICMRE 2024</em></p>
     <p>Synthetic data generation for faster annotation and robust segmentation in cluttered multi-object grasping scenes.</p>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2401.13405.pdf">Paper</a>
-      <a href="https://www.youtube.com/watch?v=V3SSSPSo-HY">Video</a>
-      <a href="https://sites.google.com/view/synthetic-dataset-generation">Project Page</a>
+      <a href="https://arxiv.org/pdf/2401.13405.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=V3SSSPSo-HY" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
+      <a href="https://sites.google.com/view/synthetic-dataset-generation" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
+      </a>
     </div>
   </div>
 </div>
@@ -240,8 +281,12 @@ redirect_from:
     <p><em>IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2023</em></p>
     <p>Learning structural grasping regions for garment manipulation tasks.</p>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2306.14553.pdf">Paper</a>
-      <a href="https://www.youtube.com/watch?v=Ik8mNMNgOvY">Video</a>
+      <a href="https://arxiv.org/pdf/2306.14553.pdf" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=Ik8mNMNgOvY" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
     </div>
   </div>
 </div>
