@@ -170,6 +170,11 @@ redirect_from:
     <p><strong>Dongmyoung Lee</strong>, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev</p>
     <p><em>IEEE Transactions on Mechatronics, submitted, 2026</em></p>
     <p>Vision-based tactile perception and control for bimanual cloth manipulation using a single robotic arm.</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2603.10609">Paper</a>
+      <a href="https://www.youtube.com/watch?v=Qom3WtHvSNI">Video</a>
+      <a href="https://sites.google.com/view/touchgog/home">Project Page</a>
+    </div>
   </div>
 </div>
 
