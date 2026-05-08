@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Dongmyoung Lee"
+title : "Dongmyoung Lee"
 title_separator          : "-"
-name                     : &name "Mr. Dongmyoung Lee"
-description              : &description "PostDoc at TU Wien"
+name : &name "Dongmyoung Lee"
+description : &description "Dongmyoung Lee is a Postdoctoral Researcher at TU Wien working on dexterous robotic manipulation, deformable object manipulation, tactile sensing, robot hand design, and human-robot interaction."
 url                      : https://DongmyoungL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DongmyoungL.github.io"
