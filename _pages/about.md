@@ -165,6 +165,36 @@ redirect_from:
 </div>
 
 <div class="pub-card">
+  <img src="/images/graphgarment.jpg" alt="GraphGarment">
+  <div>
+    <h3>GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks</h3>
+    <p>Wei Chen, Kelin Li, <strong>Dongmyoung Lee</strong>, Xiaoshuai Chen, Rui Zong, and Petar Kormushev</p>
+    <p><em>IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025</em></p>
+    <p>Graph neural network dynamics model of garment states, with a residual model to close the sim-to-real gap for tasks such as hanging.</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2503.05817" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <img src="/images/tbbf.png" alt="TBBF">
+  <div>
+    <h3>A Backbone for Long-Horizon Robot Task Understanding</h3>
+    <p>Xiaoshuai Chen, Wei Chen, <strong>Dongmyoung Lee</strong>, Yukun Ge, Nicolas Rojas, and Petar Kormushev</p>
+    <p><em>IEEE Robotics and Automation Letters, 2025</em></p>
+    <p>A Therblig-Based Backbone Framework (TBBF) for therblig-level task decomposition, action-object mapping, and adaptive trajectory generation.</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2408.01334" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
   <img src="/images/gog.jpg" alt="G.O.G.">
   <div>
     <h3>G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robot Arm</h3>
