@@ -66,9 +66,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Dongmyoung Lee"
+  links: 
+    - "https://scholar.google.com/citations?user=nufM4CwAAAAJ&hl=en"
+    - "www.linkedin.com/in/dongmyoung-lee"
+
 
 
 # Analytics
