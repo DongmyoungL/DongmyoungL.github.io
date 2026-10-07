@@ -175,6 +175,12 @@ redirect_from:
       <a href="https://arxiv.org/pdf/2503.05817" target="_blank" rel="noopener">
         <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
       </a>
+      <a href="https://www.youtube.com/watch?v=lvY1allD5e0" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
+      <a href="https://sites.google.com/view/graphgarment" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
+      </a>
     </div>
   </div>
 </div>
@@ -189,6 +195,12 @@ redirect_from:
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2408.01334" target="_blank" rel="noopener">
         <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://www.youtube.com/watch?v=J6StImuuLvQ" target="_blank" rel="noopener">
+        <i class="fas fa-video" aria-hidden="true"></i>Video
+      </a>
+      <a href="https://sites.google.com/view/therbligsbasedbackbone/home" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
       </a>
     </div>
   </div>
