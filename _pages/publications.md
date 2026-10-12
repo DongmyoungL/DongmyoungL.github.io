@@ -10,7 +10,7 @@ author_profile: true
 #### 2026
 - **Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**
 <br>**Dongmyoung Lee**, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
-*IEEE Transactions on Mechatronics (T-Mech, Submitted),* 2026.<br>
+*Under Review for Journal,* 2026.<br>
 
 - **DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation**
 <br>**Dongmyoung Lee**\*, Chengxi Li\*, and Dongheui Lee.<br>

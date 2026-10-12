@@ -138,7 +138,7 @@ redirect_from:
   <div>
     <h3>Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm</h3>
     <p><strong>Dongmyoung Lee</strong>, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev</p>
-    <p><em>IEEE Transactions on Mechatronics, submitted, 2026</em></p>
+    <p><em>Under Review for Journal, 2026</em></p>
     <p>Vision-based tactile perception and control for bimanual cloth manipulation using a single robotic arm.</p>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.10609" target="_blank" rel="noopener">
