@@ -134,12 +134,12 @@ redirect_from:
 <h2 class="section-title">publications</h2>
 
 <div class="pub-card">
-  <img src="/images/touchgog.jpg" alt="Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm">
+  <img src="/images/touchgog.jpg" alt="Touch G.O.G: Visuotactile Perception and Control for Single-Arm Cloth Edge Following">
   <div>
-    <h3>Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm</h3>
+    <h3>Touch G.O.G: Visuotactile Perception and Control for Single-Arm Cloth Edge Following</h3>
     <p><strong>Dongmyoung Lee</strong>, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev</p>
     <p><em>Under Review for Journal, 2026</em></p>
-    <p>Vision-based tactile perception and control for bimanual cloth manipulation using a single robotic arm.</p>
+    <p>Vision-based tactile perception and control for cloth edge following using a single robotic arm.</p>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.10609" target="_blank" rel="noopener">
         <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper

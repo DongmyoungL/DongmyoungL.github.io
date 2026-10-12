@@ -8,7 +8,7 @@ author_profile: true
 ### 📄 Selected Publications
 
 #### 2026
-- **Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**
+- **Touch G.O.G: Visuotactile Perception and Control for Single-Arm Cloth Edge Following**
 <br>**Dongmyoung Lee**, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
 *Under Review for Journal,* 2026.<br>
 
