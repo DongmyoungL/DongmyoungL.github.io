@@ -117,7 +117,7 @@ redirect_from:
   </div>
 </div>
 
-<h2 class="section-title">news</h2>
+<h2 class="section-title">News</h2>
 
 <ul class="news-list">
   <li><span class="date">2026</span><span> DexTwist was accepted to IEEE ARSO 2026.</span></li>
@@ -131,7 +131,7 @@ redirect_from:
   
 </ul>
 
-<h2 class="section-title">publications</h2>
+<h2 class="section-title">Publications</h2>
 
 <div class="pub-card">
   <img src="/images/touchgog.jpg" alt="Touch G.O.G: Visuotactile Perception and Control for Single-Arm Cloth Edge Following">
