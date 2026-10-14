@@ -11,10 +11,12 @@ author_profile: true
 - **Touch G.O.G: Visuotactile Perception and Control for Single-Arm Cloth Edge Following**
 <br>**Dongmyoung Lee**, Wei Chen, Xiaoshuai Chen, Rui Zong, and Petar Kormushev.<br>
 *Under Review for Journal,* 2026.<br>
+[Paper](https://arxiv.org/pdf/2603.10609) | [Project](https://sites.google.com/view/touchgog/home)
 
 - **DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation**
 <br>**Dongmyoung Lee**\*, Chengxi Li\*, and Dongheui Lee.<br>
 *IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO),* 2026.<br>
+[Paper](https://arxiv.org/pdf/2605.12182) | [Project](https://dongmyoungl.github.io/DexTwist)
 
 #### 2025
 - **GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks**

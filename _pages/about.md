@@ -161,6 +161,14 @@ redirect_from:
     <p><strong>Dongmyoung Lee</strong>*, Chengxi Li*, and Dongheui Lee</p>
     <p><em>IEEE International Conference on Advanced Robotics and its Social Impacts, ARSO 2026</em></p>
     <p>Dexterous hand retargeting for twist motion through mixed-reality-based teleoperation.</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2605.12182" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> Paper
+      </a>
+      <a href="https://dongmyoungl.github.io/DexTwist" target="_blank" rel="noopener">
+        <i class="fas fa-globe" aria-hidden="true"></i> Project Page
+      </a>
+    </div>
   </div>
 </div>
 
